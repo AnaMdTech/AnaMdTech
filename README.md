@@ -1,8 +1,8 @@
 ## 👨🏽‍💻 Ana Mohammed
 
-Creative Digital Developer & Designer (Web & Mobile Apps)
+Software Engineer | Web Developer
 
-I am a software developer with a focus on front-end development and mobile app creation using React Native. Leveraging my expertise in React and JavaScript, I build and design websites that provide seamless and engaging user experiences. My skills extend to mobile app development, where I create innovative and high-quality applications tailored to meet clients' specific needs. I combine a strong sense of professionalism with a creative approach to deliver digital solutions that not only meet but exceed expectations. Whether designing a website or developing a mobile app, my goal is to provide clients with products that are both functional and visually appealing. My ability to understand client requirements and translate them into effective digital solutions sets me apart in the industry. I strive to stay updated with the latest technologies and design trends, ensuring that my work is modern and relevant. With a commitment to excellence and a passion for innovation, I am dedicated to helping businesses enhance their digital presence through well-crafted and efficient solutions.
+I am a software developer with a focus on front-end development and mobile app creation. I build and design websites that provide seamless and engaging user experiences. My skills extend to mobile app development, where I create innovative and high-quality applications tailored to meet clients' specific needs. I combine a strong sense of professionalism with a creative approach to deliver digital solutions that not only meet but exceed expectations. Whether designing a website or developing a mobile app, my goal is to provide clients with products that are both functional and visually appealing. My ability to understand client requirements and translate them into effective digital solutions sets me apart in the industry. I strive to stay updated with the latest technologies and design trends, ensuring that my work is modern and relevant. With a commitment to excellence and a passion for innovation, I am dedicated to helping businesses enhance their digital presence through well-crafted and efficient solutions.
 
 <hr />
 
@@ -27,8 +27,7 @@ I am a software developer with a focus on front-end development and mobile app c
 
 #
 
-### 📊 stats
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMdTech&theme=dark&show_icons=true)
-
-
-
+### 📊 STATS
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMdTech&theme=dark&show_icons=true&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMdTech&layout=pie&theme=dark&show_icons=true)](https://github.com/AnaMdTech/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=AnaMdTech&theme=dark&hide_border=false" alt="Ana's Streak Stats" style="width: 89%; height: 300px" />
