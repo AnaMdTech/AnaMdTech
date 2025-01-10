@@ -30,4 +30,3 @@ I am a software developer with a focus on front-end development and mobile app c
 ### 📊 STATS
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMdTech&theme=dark&show_icons=true&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMdTech&layout=pie&theme=dark&show_icons=true)](https://github.com/AnaMdTech/github-readme-stats)
-<img src="https://streak-stats.demolab.com?user=AnaMdTech&theme=dark&hide_border=false" alt="Ana's Streak Stats" style="width: 92%; height: 300px" />
