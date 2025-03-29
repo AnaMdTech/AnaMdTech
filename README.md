@@ -7,9 +7,6 @@ I am a software developer with a focus on front-end development and mobile app c
 
 <hr />
 
-<h1 align="center">🧰 Languages and Tools</h1>
-
-
    
 <div align="center">
    <p align="center">
