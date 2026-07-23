@@ -1,47 +1,79 @@
-![](https://github.com/ianshulx/ianshulx/blob/main/header.gif)
-## <h1 align="center" ><a href="https://www.linkedin.com/in/ana-mohammed-78443a286/" target="_blank"> 👨🏽‍💻 Ana Mohammed </a> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<div align="center">
+  <img src="https://github.com/ianshulx/ianshulx/blob/main/header.gif" width="100%" alt="Header Banner">
 
-<h2 align="center" > Software Engineer | Full Stack Developer </h1>
+  <h1>
+    <a href="https://www.linkedin.com/in/ana-mohammed-78443a286/" target="_blank">👨🏽‍💻 Ana Mohammed</a> 
+    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" alt="Waving Hand">
+  </h1>
 
-I am a software developer with a focus on front-end development and mobile app creation. I build and design websites that provide seamless and engaging user experiences. My skills extend to mobile app development, where I create innovative and high-quality applications tailored to meet clients' specific needs. I combine a strong sense of professionalism with a creative approach to deliver digital solutions that not only meet but exceed expectations. Whether designing a website or developing a mobile app, my goal is to provide clients with products that are both functional and visually appealing. My ability to understand client requirements and translate them into effective digital solutions sets me apart in the industry. I strive to stay updated with the latest technologies and design trends, ensuring that my work is modern and relevant. With a commitment to excellence and a passion for innovation, I am dedicated to helping businesses enhance their digital presence through well-crafted and efficient solutions.
+  <h2>Software Engineer | Full-Stack Web & Mobile Developer</h2>
+</div>
+
+<p align="center">
+  Crafting scalable web applications and seamless cross-platform mobile experiences.
+</p>
+
+### 🚀 About Me
+- 💻 **Full-Stack Focus:** Specializing in modern web technologies including React, Next.js, Node.js, and Django.
+- 📱 **Mobile Development:** Building high-quality, user-centric mobile applications using React Native.
+- 💡 **Problem Solver:** Translating complex client requirements into efficient, modern, and visually appealing digital solutions.
+- 🌐 **Portfolio:** Check out my work at **[ana-md.netlify.app](https://ana-md.netlify.app/)**
 
 <hr />
 
-   
-<div align="center">
-   <p align="center">
-      <img align="left" alt="figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />   
-      <img align="left" alt="framer" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
-      <img align="left" alt="html5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-      <img align="left" alt="css3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-      <img align="left" alt="sass" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-      <img align="left" alt="tailwindcss" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />   
-      <img align="left" alt="bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-      <img align="left" alt="git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-      <img align="left" alt="github" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-      <img align="left" alt="javascript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-      <img align="left" alt="typescript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-      <img align="left" alt="react" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-      <img align="left" alt="javascript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-      <img align="left" alt="nodejs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-      <img align="left" alt="nodejs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img align="left" alt="nodejs" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-   </p>
-<div/>
+### 💼 Featured Projects
+*Recruiters: Click the links below to view my live applications and source code.*
 
-<br/><br/>
+| Project Name | Description | Tech Stack | Links |
+|--------------|-------------|------------|-------|
+| **[Your Web App Name]** | A brief 1-sentence description of what this full-stack app does. | Next.js, Django, PostgreSQL | [Live Demo](#) / [Code](#) |
+| **[Your Mobile App Name]** | A brief description of the mobile application and the problem it solves. | React Native, Node.js | [App Store/Demo](#) / [Code](#) |
+| **[Your Third Project]** | Description of another complex project showcasing your skills. | React, Node.js, MongoDB | [Live Demo](#) / [Code](#) |
 
-<h1 align="center">Let's Get Connected</h1>
+*(Note: Replace the placeholder text and `#` links above with your actual top 3 projects!)*
 
-<div align="center">
-  <a  href="https://www.linkedin.com/in/ana-mohammed-78443a286/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a  href="https://t.me/"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a  href="https://www.instagram.com/https://www.instagram.com/anamdtech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+<hr />
 
-### 📊 STATS
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaMdTech&theme=dark&show_icons=true&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMdTech&layout=pie&theme=dark&show_icons=true)](https://github.com/AnaMdTech/github-readme-stats)
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaMdTech&theme=dark" alt="AnaMdTech" /></p>
-</div>
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <!-- Frontend & Mobile -->
+  <img alt="HTML5" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React & React Native" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Tailwind" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+  <!-- Backend & Databases -->
+  <img alt="Node.js" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Python" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Django" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img alt="MongoDB" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="PostgreSQL" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Firebase" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />
+
+  <!-- Tools & DevOps -->
+  <img alt="Git" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="Docker" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Figma" width="40px" style="margin: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</p>
+
+<hr />
+
+<h3 align="center">Let's Get Connected</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-mohammed-78443a286/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/YOUR_USERNAME_HERE" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anamdtech/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
