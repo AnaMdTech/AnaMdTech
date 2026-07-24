@@ -21,19 +21,6 @@
 
 <hr />
 
-### 💼 Featured Projects
-*Recruiters: Click the links below to view my live applications and source code.*
-
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| **[Your Web App Name]** | A brief 1-sentence description of what this full-stack app does. | Next.js, Django, PostgreSQL | [Live Demo](#) / [Code](#) |
-| **[Your Mobile App Name]** | A brief description of the mobile application and the problem it solves. | React Native, Node.js | [App Store/Demo](#) / [Code](#) |
-| **[Your Third Project]** | Description of another complex project showcasing your skills. | React, Node.js, MongoDB | [Live Demo](#) / [Code](#) |
-
-*(Note: Replace the placeholder text and `#` links above with your actual top 3 projects!)*
-
-<hr />
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
