@@ -17,7 +17,7 @@
 - 💻 **Full-Stack Focus:** Specializing in modern web technologies including React, Next.js, Node.js, and Django.
 - 📱 **Mobile Development:** Building high-quality, user-centric mobile applications using React Native.
 - 💡 **Problem Solver:** Translating complex client requirements into efficient, modern, and visually appealing digital solutions.
-- 🌐 **Portfolio:** Check out my work at **[ana-md.netlify.app](https://ana-md.netlify.app/)**
+- 🌐 **Portfolio:** Check out my work at **[ana-md.netlify.app](https://anamd-portfolio.vercel.app/)**
 
 <hr />
 
