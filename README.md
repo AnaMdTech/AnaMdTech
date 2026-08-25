@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <!-- Crafting scalable web applications and seamless cross-platform mobile experiences. -->
+  Crafting scalable web applications and seamless cross-platform mobile experiences.
 </p>
 
 ### 🚀 About Me
